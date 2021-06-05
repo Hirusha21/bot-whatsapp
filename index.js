@@ -22,7 +22,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:Maulana Azis\n' // Maulana Azis
             + 'ORG:LilDiablos;\n' // LilDiablos
-            + 'TEL;type=CELL;type=VOICE;waid=6285853554038:+62 858-5355-4038\n' //Nomor whatsapp kamu
+            + 'TEL;type=CELL;type=VOICE;waid=94755681782:+94 7555-681-782\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
 {
